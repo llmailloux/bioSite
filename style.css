@@ -39,7 +39,8 @@ h5 {
 
   .outer-col-1 {
     background: #D7E8D4;
-     text-align: center;
+    text-align: center;
+    width: 420px;
      
   }
 
@@ -114,16 +115,15 @@ img {
   border-radius: 6px;
 }
 .graduationpicture {
-   margin-left: 60px;
-    margin-right: 50px;
+	margin-left: 60px;
+	margin-right: 50px;
 }
 .parkerseniorpicture{
-margin-left: 20px;
+	margin-left: 20px;
 }
 
 
 .parkeratbootcamp{
     margin-bottom: 50px;
 }
-
 
